@@ -301,9 +301,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
+**Your Name** - [@Malak Henen](malakhenen92@gmail.com) - malakhenen92@gmail.com
 
-Project Link: [https://github.com/yourusername/hungery](https://github.com/MalakHenendeveloper/Hungery.git)
+Project Link: [Hungery App](https://github.com/MalakHenendeveloper/Hungery.git)
 
 ---
 
