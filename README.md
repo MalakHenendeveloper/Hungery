@@ -1,6 +1,6 @@
 # 🍔 Hungery - Food Delivery App
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/images/hungryLogo.png" alt="Hungery Logo" width="200"/>
+  <img src="https://github.com/MalakHenendeveloper/Hungery/raw/4e47511ff911634db992bb396186642c7ee84aa5/assets/hungeryLogo.png" alt="Hungery Logo" width="200"/>
   
   <h3>Modern Food Delivery Experience</h3>
 
@@ -12,8 +12,6 @@
   <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-3.0+-blue.svg"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"/></a>
 </div>
-
-
 ---
 
 ## 📱 About The Project
