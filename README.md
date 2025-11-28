@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/hungery](https://github.com/yourusername/hungery)
+Project Link: [https://github.com/yourusername/hungery](https://github.com/MalakHenendeveloper/Hungery.git)
 
 ---
 
