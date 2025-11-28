@@ -1,16 +1,18 @@
 # 🍔 Hungery - Food Delivery App
-
 <div align="center">
-  <img src="assets/images/hungry.svg" alt="Hungery Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/images/hungryLogo.png" alt="Hungery Logo" width="200"/>
   
-  ### Modern Food Delivery Experience
-  
+  <h3>Modern Food Delivery Experience</h3>
+
   A feature-rich Flutter application that revolutionizes food ordering with an elegant UI and seamless user experience.
-  
-  [![Flutter Version](https://img.shields.io/badge/Flutter-3.0+-blue.svg)](https://flutter.dev/)
-  [![Dart Version](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+  <br/>
+
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-3.0+-blue.svg"/></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-3.0+-blue.svg"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"/></a>
 </div>
+
 
 ---
 
